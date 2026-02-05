@@ -19,13 +19,23 @@
 
 ---
 
+### 📑 My Writeups & Portfolio
+<p align="center">
+  <a href="https://foggy-pin-3b2.notion.site/CTF-2fe3e5d5010980738110cbc28c31f3ea" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_CTF_Writeups-Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" height="40" />
+  </a>
+</p>
+
+---
+
 ### ⚡ About Me
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180">
 
-- 🔭 I’m currently learning **Web Application Penetration Testing****.
+- 🔭 I’m currently learning **Web Application Penetration Testing**.
 - 🌱 I’m currently grinding ranks on **TryHackMe** & **PortSwigger Academy**.
-- 👾 Hobbies: Playing **CTFs**
+- 👾 Hobbies: Playing **CTFs**.
+
 ---
 
 ### 🛠️ My Hacking Arsenal (Tech Stack)
