@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
- <a href="https://tryhackme.com/p/Th3Gh05t" target="blank">
-  <img src="https://img.shields.io/badge/TryHackMe-AE1822?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme" />
- </a>
- <a href="https://app.hackthebox.com/users/3112228" target="blank">
-  <img src="https://img.shields.io/badge/HackTheBox-11191f?style=for-the-badge&logo=hackthebox&logoColor=00FF00" alt="hackthebox" />
- </a>
+  <a href="https://tryhackme.com/p/NTSINH" target="blank">
+    <img src="https://img.shields.io/badge/TryHackMe_Main-AE1822?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe NTSINH" />
+  </a>
+
+  <a href="https://tryhackme.com/p/Th3Gh05t" target="blank">
+    <img src="https://img.shields.io/badge/TryHackMe_Archive-880000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Th3Gh05t" />
+  </a>
+
+  <a href="https://app.hackthebox.com/users/3112228" target="blank">
+    <img src="https://img.shields.io/badge/HackTheBox-11191f?style=for-the-badge&logo=hackthebox&logoColor=00FF00" alt="HackTheBox" />
+  </a>
 </p>
 
 ---
